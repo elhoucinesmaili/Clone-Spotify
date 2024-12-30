@@ -4,7 +4,6 @@ import { albumsData } from '../assets/assets'
 import AlbumtItem from './Albumtitem'
 import { songsData } from '../assets/assets'
 import SongItem from './SongItem'
-import AlbumtItem from './Albumtitem'
 
 const DisplayHome = () => {
   return (
